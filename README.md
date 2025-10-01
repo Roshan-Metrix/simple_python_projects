@@ -48,7 +48,7 @@ python main.py
         python main.py
         ```
      *(Replace `main.py` with the actual script name if different.)*
-
+```
 ## Contributing
 
 Feel free to fork the repository and submit pull requests for new projects or improvements.
