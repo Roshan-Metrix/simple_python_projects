@@ -5,8 +5,8 @@ This repository contains a collection of simple Python projects designed to stre
 ## Projects Included
 
 - Rent Calculator
+- Rock Paper Scissor Game
 - Number Guessing Game
-- Calculator
 - To-Do List App
 - Weather App
 - File Organizer
