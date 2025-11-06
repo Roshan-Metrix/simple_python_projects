@@ -8,7 +8,7 @@ data = input("Enter the name, link etc. to create QR : ")
 qr.add_data(data)
 qr.make(fit=True)
 img=qr.make_image(fill_color="black",back_color="white")
-img.save("wscude_yt.png")
+img.save("QRCode.png")
 
 # first install qr , pillow modules using pip 
 # compile and add the link for generating its QR
