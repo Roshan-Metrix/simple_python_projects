@@ -1,3 +1,4 @@
 qrcode
 pillow
 pywhatkit
+opencv-python
