@@ -1,3 +1,5 @@
 main.py
 modules/
 QRCode.png
+.env
+venv/
