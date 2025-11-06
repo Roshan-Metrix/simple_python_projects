@@ -8,6 +8,7 @@ This repository contains a collection of simple Python projects designed to stre
 - [Rock Paper Scissor Game](./projects/RockPaperScissor.py)
 - [Text to Handwriting Converter](./projects/TextToHandwritingConverter.py)
 - [QR Code Generator](./projects/QRCodeGenerator.py)
+- [WhatsApp Message Automation](./projects/whatsapp_message_automation/main.py)
 - And more...
 
 ## Getting Started
