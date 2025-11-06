@@ -4,12 +4,10 @@ This repository contains a collection of simple Python projects designed to stre
 
 ## Projects Included
 
-- Rent Calculator
-- Rock Paper Scissor Game
-- Number Guessing Game
-- To-Do List App
-- Weather App
-- File Organizer
+- [Rent Calculator](./projects/RentCalculator.py)
+- [Rock Paper Scissor Game](./projects/RockPaperScissor.py)
+- [Text to Handwriting Converter](./projects/TextToHandwritingConverter.py)
+- [QR Code Generator](./projects/QRCodeGenerator.py)
 - And more...
 
 ## Getting Started
